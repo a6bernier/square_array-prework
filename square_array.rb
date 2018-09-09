@@ -4,7 +4,6 @@ def square_array(array)
   array.each { |i| arr << i ** 2 }
   arr
 end
-end
 
 def square_array(numbers)
   numbers.each { |i| numbers << i ** 2 }
